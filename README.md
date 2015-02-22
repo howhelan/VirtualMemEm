@@ -1,2 +1,2 @@
 # VirtualMemEm
-Emulation of virtual memory
+Emulation of virtual memory.
